@@ -11,7 +11,7 @@
 <div style="display: inline_block">
   <!--  Linguagem de marcacao  -->
   <div>
-    <h4>Liguagem de Marcaçao</h4>
+    <h4>Liguagem de Marcação</h4>
     <img align="center" alt="Juh-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   </div>
   
@@ -23,7 +23,7 @@
   
   <!--  Sistema de controle de versao  -->
   <div>
-    <h4>Sistemas de Controle de Versoes</h4>
+    <h4>Sistemas de Controle de Versões</h4>
     <img align="center" alt="Juh-bitbucket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
     <img align="center" alt="Juh-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="Juh-sourcetree" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" />
