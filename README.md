@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JullianaRP&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Tecnologias - Browsers - Libs
+## Linguagens - Bibliotecas - Ferramentas - Browsers
 
 <div style="display: inline_block">
   <!--  Linguagem de marcacao  -->
@@ -44,13 +44,13 @@
   
   <!--  Ferramenta de automacao  -->
   <div>
-    <h4>Ferramenta de automacao</h4>
+    <h4>Ferramenta de Automação</h4>
     <img align="center" alt="Juh-gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
   </div>
   
   <!--  Linguagem de programacao  -->
   <div>
-    <h4>Linguagem de Programacao</h4>
+    <h4>Linguagem de Programação</h4>
     <img align="center" alt="Juh-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="Juh-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </div>
@@ -62,17 +62,17 @@
     <img align="center" alt="Juh-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
   </div>
   
-  <!--   Libs em JS -->
+  <!--   Biblioteca em JS -->
   <div>
-      <h4>Libs em JS</h4>
+      <h4>Biblioteca em JS</h4>
       <img align="center" alt="Juh-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   </div>
   
 <!--   <img align="center" alt="Juh-kraken" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krakenjs/krakenjs-original.svg" /> -->
   
-  <!--  Libs Design - Tools Design or Tools Components  -->
+  <!--  Biblioteca Design - Ferramentas de Design ou Ferramentas de Componentes  -->
   <div>
-    <h4>Libs Design - Tools Design or Tools Components</h4>
+    <h4>Biblioteca Design - Ferramentas de Design ou Ferramentas de Componentes</h4>
     <img align="center" alt="Juh-materialui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
     <img align="center" alt="Juh-storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
   </div>
@@ -90,9 +90,9 @@
     <img align="center" alt="Juh-safari" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" />
   </div>
   
-  <!--  Library de código aberto  -->
+  <!--  Biblioteca de código aberto  -->
   <div>
-    <h4>Library de código aberto</h4>
+    <h4>Biblioteca de código aberto</h4>
       <img align="center" alt="Juh-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       <img align="center" alt="Juh-redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   </div>
