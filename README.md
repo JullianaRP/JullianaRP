@@ -9,30 +9,57 @@
 ## Linguagens - Bibliotecas - Ferramentas - Browsers
 
 <div style="display: inline_block">
-  <!--  Linguagem de marcacao  -->
+  <!--  Linguagem de Marcação  -->
   <div>
     <h4>Liguagem de Marcação</h4>
     <img align="center" alt="Juh-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   </div>
   
-  <!--  Linguagem de estilo  -->
+  <!--  Linguagem de Estilo  -->
   <div>
     <h4>Liguagem de Estilo</h4>
-    <img align="center" alt="Juh-sasss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img align="center" alt="Juh-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" alt="Juh-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   </div>
   
-  <!--  Sistema de controle de versao  -->
+  <!--  Biblioteca Design - Ferramentas de Design ou Ferramentas de Componentes  -->
+  <div>
+    <h4>Biblioteca Design - Ferramentas de Design ou Ferramentas de Componentes</h4>
+    <img align="center" alt="Juh-materialui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+    <img align="center" alt="Juh-storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
+  </div>
+  
+  <!--  Editor Gráfico / Ferramenta Gráfica para Projetos de vetor e prototipagem de projetos de design  -->
+  <div>
+    <h4>Editor Gráfico / Ferramenta Gráfica para Projetos de vetor e prototipagem de projetos de design</h4>
+    <img align="center" alt="Juh-materialui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  </div>
+  
+  <!--  Linguagem de Programação  -->
+  <div>
+    <h4>Linguagem de Programação</h4>
+    <img align="center" alt="Juh-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="Juh-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  </div>
+  
+  <!--  Framework Javascript  -->
+  <div>
+    <h4>Framework JS</h4>
+    <img align="center" alt="Juh-angularjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  </div>
+  
+  <!--  Ferramenta de Automação  -->
+  <div>
+    <h4>Ferramenta de Automação</h4>
+    <img align="center" alt="Juh-gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
+  </div>
+  
+  <!--  Sistemas de Controle de Versões  -->
   <div>
     <h4>Sistemas de Controle de Versões</h4>
     <img align="center" alt="Juh-bitbucket" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
     <img align="center" alt="Juh-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="Juh-sourcetree" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" />
-  </div>
-  
-  <!--  Framework web  -->
-  <div>
-    <h4>Framework Web</h4>
-    <img align="center" alt="Juh-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   </div>
   
   <!--  Plataforma de hospedagem de site/projetos  -->
@@ -42,20 +69,7 @@
     <img align="center" alt="Juh-gitlabt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   </div>
   
-  <!--  Ferramenta de automacao  -->
-  <div>
-    <h4>Ferramenta de Automação</h4>
-    <img align="center" alt="Juh-gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
-  </div>
-  
-  <!--  Linguagem de programacao  -->
-  <div>
-    <h4>Linguagem de Programação</h4>
-    <img align="center" alt="Juh-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="Juh-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  </div>
-  
-  <!--  Ferramenta que permite o monitoramento de tarefas e acompanhamento de projetos  -->
+  <!--  Ferramentas de Monitoramento de Tarefas e Acompanhamento de Projetos  -->
   <div>
     <h4>Ferramentas de Monitoramento de Tarefas e Acompanhamento de Projetos</h4>
     <img align="center" alt="Juh-jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
@@ -68,16 +82,16 @@
       <img align="center" alt="Juh-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   </div>
   
-<!--   <img align="center" alt="Juh-kraken" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krakenjs/krakenjs-original.svg" /> -->
-  
-  <!--  Biblioteca Design - Ferramentas de Design ou Ferramentas de Componentes  -->
+  <!--  Biblioteca de código aberto  -->
   <div>
-    <h4>Biblioteca Design - Ferramentas de Design ou Ferramentas de Componentes</h4>
-    <img align="center" alt="Juh-materialui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-    <img align="center" alt="Juh-storybook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
+    <h4>Biblioteca de código aberto</h4>
+      <img align="center" alt="Juh-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img align="center" alt="Juh-redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   </div>
   
-  <!--  Gerenciador de pacotes  -->
+<!--   <img align="center" alt="Juh-kraken" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/krakenjs/krakenjs-original.svg" /> -->
+  
+  <!--  Gerenciador de Pacotes  -->
   <div>
     <h4>Gerenciador de Pacotes</h4>
     <img align="center" alt="Juh-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
@@ -86,21 +100,16 @@
   <!--  Browsers que testo e finalizo o fluxo dos sites / projetos  -->
   <div>
     <h4>Browser's que testo e finalizo o fluxo dos projetos</h4>
+    <img align="center" alt="Juh-opera" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
     <img align="center" alt="Juh-opera" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" />
     <img align="center" alt="Juh-safari" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" />
-  </div>
-  
-  <!--  Biblioteca de código aberto  -->
-  <div>
-    <h4>Biblioteca de código aberto</h4>
-      <img align="center" alt="Juh-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img align="center" alt="Juh-redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   </div>
   
   <!--  Editores de código que trabalho  -->
   <div>
     <h4>Editores de código que trabalho</h4>
     <img align="center" alt="Juh-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img align="center" alt="Juh-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
   </div>
   
   <!--  Rede social de negócios / Rede Social de Conhecimento em Comunidade  -->
