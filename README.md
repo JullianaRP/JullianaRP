@@ -1,5 +1,17 @@
-## Julliana Ribeiro Pinotti 👩‍💻
+## Julliana Ribeiro Pinotti
+
 <div>
+  <p>
+    ≻ Ju, 21 anos, transformo café em código
+    <img
+      align="center"
+      alt="Juh-coffeescript"
+      height="30"
+      width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg"
+    />.
+  </p>
+
   <p>≻ Desenvolvedora Front-end na BRQ Digital Solutions.</p>
   <p>≻ Trabalho atualmente com Angular ❤.</p>
   <p>
@@ -264,10 +276,17 @@
     <h4>Browser's que testo e finalizo o fluxo dos projetos</h4>
     <img
       align="center"
-      alt="Juh-opera"
+      alt="Juh-chrome"
       height="30"
       width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"
+    />
+    <img
+      align="center"
+      alt="Juh-firefox"
+      height="30"
+      width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg"
     />
     <img
       align="center"
@@ -304,8 +323,20 @@
     />
   </div>
 
-  <!--  Rede social de negócios / Rede Social de Conhecimento em Comunidade  -->
+  <!--  Tudo que eu estiver aprendendo / estudando / aplicando de início e avaliando  -->
   <div>
+    <h3>Em aprendizado...</h3>
+    <img
+      align="center"
+      alt="Juh-storybook"
+      height="30"
+      width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"
+    />
+  </div>
+
+  <!--  Rede social de negócios / Rede Social de Conhecimento em Comunidade  -->
+  <!--   <div>
     <h4>Rede Social de Negócios / Rede Social de Conhecimento em Comunidade</h4>
     <img
       align="center"
@@ -321,7 +352,7 @@
       width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
     />
-  </div>
+  </div> -->
 </div>
 
 ## Comunicação
