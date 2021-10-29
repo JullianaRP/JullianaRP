@@ -13,7 +13,17 @@
   </p>
 
   <p>≻ Desenvolvedora Front-end na BRQ Digital Solutions.</p>
-  <p>≻ Trabalho atualmente com Angular ❤.</p>
+  <p>
+    ≻ Trabalho atualmente com Angular
+    <img
+      align="center"
+      alt="Juh-angularjs-description"
+      height="20"
+      width="20"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+    />
+    .
+  </p>
   <p>
     ≻ Transformo problemas em design de interface simples, bonitos, intuitivos e
     que seja de bom agrado ao cliente final.
