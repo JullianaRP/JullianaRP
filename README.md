@@ -5,22 +5,31 @@
     ≻ Ju, 21 anos, transformo café em código
     <img
       align="center"
-      alt="Juh-coffeescript"
-      height="30"
-      width="40"
+      alt="Juh-coffeescript-description"
+      height="26"
+      width="26"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg"
     />.
   </p>
 
-  <p>≻ Desenvolvedora Front-end na BRQ Digital Solutions.</p>
+  <p>
+    ≻ Desenvolvedora Front-end na BRQ Digital Solutions
+    <img
+      align="center"
+      alt="Juh-brq-description"
+      height="40"
+      width="40"
+      src="https://lh3.googleusercontent.com/proxy/wwXBA0Zs9sZVwigkX8zfWnHa3N9gG5_YGm4Sn1Pbo6Cyx46VcLb4CViuBJEphi3tPU0M8whoxmxs7ohomaz9TFms3mRaC4C9Pq2M6Nk"
+    />.
+  </p>
   <p>
     ≻ Trabalho atualmente com Angular
     <img
       align="center"
       alt="Juh-angularjs-description"
-      height="20"
-      width="20"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+      height="30"
+      width="30"
+      src="https://angular.io/assets/images/logos/angular/angular.png"
     />
     .
   </p>
